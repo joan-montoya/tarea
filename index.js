@@ -3,4 +3,4 @@ function PrimerPaso(){
 }
 function SegundoPaso(){
     console.log("mandamos el segundo paso");
-}
+} 
